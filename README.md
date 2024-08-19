@@ -26,7 +26,7 @@ To work with this repository locally, you will need:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/obsidian-notes-website.git
+git clone https://github.com/CameronGuthrie/QA-Obsidian.git
 cd obsidian-notes-website
 ```
 
